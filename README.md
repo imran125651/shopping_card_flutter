@@ -1,16 +1,8 @@
 # shopping_card
 
-A new Flutter project.
+Shopping card design using Flutter
 
-## Getting Started
+![Screenshot_1725613485](https://github.com/user-attachments/assets/7f2baf1f-b49a-4a77-b7e5-6f16b288db03)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_1725613482](https://github.com/user-attachments/assets/cb7a5e78-ddff-433a-9085-3cc5d223542c)
